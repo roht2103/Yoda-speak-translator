@@ -7,13 +7,15 @@ body {
 
 .img{
     background-image: url("yoda4.jpg");
+    display: block;
+    background-position: fixed;
     background-size: cover;
     background-repeat: no-repeat;
 
 }
 
   .nav{
-    background-color: rgba(240, 235, 228, 0.091) ;
+    background-color: rgba(240, 235, 228, 0.409) ;
      height: auto;
      width: 100%;
      border-bottom: 5px solid black;
@@ -37,7 +39,7 @@ body {
 
  
 #text-input{
-    background-color: rgba(240, 235, 228, 0.091) ;
+    background-color: rgba(240, 235, 228, 0.237) ;
     font-weight: bolder;
     font-family:'Courier New', Courier, monospace;
     font-size: 25px;
@@ -88,6 +90,7 @@ body {
     background-color: rgba(240, 235, 228, 0.091) ;
     font-weight: bolder;
     padding: 0.5rem 1rem;
+    border: 1px solid black;
     border-radius: 0.7rem;
     font-size: larger;
     border-bottom: 7px solid black;
