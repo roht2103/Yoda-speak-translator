@@ -8,6 +8,7 @@ body {
 .img{
     background-image: url("yoda2.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
   .nav{
