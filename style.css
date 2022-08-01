@@ -7,11 +7,10 @@ body {
 
 .img{
     background-image: url("yoda4.jpg");
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    
     background-size: cover;
     background-repeat: no-repeat;
+
 }
 
   .nav{
